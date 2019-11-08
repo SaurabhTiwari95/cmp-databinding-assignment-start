@@ -1,7 +1,6 @@
 # Section 5 || Assignment
 
-# cmp-databinding-assignment-start
-
+# [cmp-databinding-assignment-start](https://stackblitz.com/github/SaurabhTiwari95/cmp-databinding-assignment-start)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
